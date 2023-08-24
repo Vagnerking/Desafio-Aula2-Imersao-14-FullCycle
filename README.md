@@ -4,7 +4,8 @@ Para rodar o projeto é só executar o comando no terminal:
 
 `docker-compose up`
 
-após executar, você pode testar todos os endpoints que estão no arquivo api.http.
+após executar, você pode testar todos os endpoints que estão no arquivo api.http
+
 www.linkedin.com/in/vagnerking/
 
 # Informações do desafio
